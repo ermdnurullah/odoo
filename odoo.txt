@@ -120,6 +120,7 @@ xmlrpcmsg]8;;file:///srv/bde/nurullah/src/Webkul/OdooConnectorBundle/phpxml/lib
                       }
                     ]
                   ]
+                  sss ADSDSADASDSAD
                   +mytype: 2
                   +_php_class: null
                 }
